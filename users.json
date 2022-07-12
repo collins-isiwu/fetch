@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"david",
+        "email":"david@aabc.com"
+    },
+    {
+        "id":1,
+        "name":"ahmed",
+        "email":"ahmed@aabc.com"
+    },
+    {
+        "id":1,
+        "name":"obi",
+        "email":"obi@aabc.com"
+    }
+]
